@@ -1,4 +1,7 @@
 # Archaeology in a Box 
 
-Website layout available in the  docs folder as a GitPages Site
+Notes and other nuggets
+
+Layout for the site is found at the [FieldBook](https://jctmcclain.github.io/archaeology_fieldbook/) site
+
 
